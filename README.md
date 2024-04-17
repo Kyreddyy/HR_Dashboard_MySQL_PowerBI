@@ -1,4 +1,4 @@
-# HR Dashboard-MySQL-PowerBI
+# HR_Dashboard_MySQL_PowerBI
 ![hr report](https://github.com/Kyreddyy/portfolioprojects/assets/132040380/9e8cdd9c-ae53-41f6-b60c-5df1ccd5d02d)
 
 ## Data
