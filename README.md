@@ -9,7 +9,7 @@
 
 **Data Visualization** - PowerBI
 
-## findings
+## Findings
 
 1. Gender breakdown of employees in the company
 2. Race/ethnicity breakdown of employees in the company
